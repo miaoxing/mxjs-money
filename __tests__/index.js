@@ -24,4 +24,10 @@ describe('money', () => {
   test('remove ending zero', () => {
     expect(money('2.51').sub(money('0.01')).toString()).toBe('2.5');
   });
+
+  test('mutable ', () => {
+    const value = money('2.51');
+    value.sub('0.01');
+    expect(value.toString()).toBe('2.5');
+  });
 });
