@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/miaoxing/mxjs-money/compare/v0.1.4...v1.0.0) (2022-07-01)
+
+
+### Features
+
+* 发布 1.0.0 [release 1.0.0] ([c18a2a9](https://github.com/miaoxing/mxjs-money/commit/c18a2a9002b8b8b962f6f59079aa7e99e29d15f3))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.1` to `8.1.2`
+
 ## [0.1.4](https://github.com/miaoxing/mxjs-money/compare/v0.1.3...v0.1.4) (2022-06-01)
 
 
