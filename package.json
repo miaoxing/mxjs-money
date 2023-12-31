@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/money",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -14,6 +14,6 @@
     "currency.js": "^2.0.4"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^8.2.4"
+    "@miaoxing/dev": "^9.0.0"
   }
 }
