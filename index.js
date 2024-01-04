@@ -34,6 +34,10 @@ class Money {
   toString() {
     return this.value.toJSON().toString();
   }
+
+  isZero() {
+    return this.value.intValue === 0;
+  }
 }
 
 const money = (value) => {

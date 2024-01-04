@@ -30,4 +30,12 @@ describe('money', () => {
     value.sub('0.01');
     expect(value.toString()).toBe('2.5');
   });
+
+  test('isZero', () => {
+    expect(money('0').isZero()).toBe(true);
+    expect(money('0.00').isZero()).toBe(true);
+    expect(money(0).isZero()).toBe(true);
+    expect(money(0.0).isZero()).toBe(true);
+    expect(money(0.1).isZero()).toBe(false);
+  });
 });
