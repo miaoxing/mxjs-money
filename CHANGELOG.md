@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-money/compare/v1.0.8...v1.1.0) (2024-01-31)
+
+
+### Features
+
+* **money:** add `isZero` method ([c6e6b74](https://github.com/miaoxing/mxjs-money/commit/c6e6b740f7287978af9218386e8c8928b27c1f7d))
+
 ## [1.0.8](https://github.com/miaoxing/mxjs-money/compare/v1.0.7...v1.0.8) (2024-01-08)
 
 
