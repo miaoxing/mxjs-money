@@ -1,3 +1,13 @@
+## [1.1.2](https://github.com/miaoxing/mxjs-money/compare/v1.1.1...v1.1.2) (2024-07-31)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.1.1` to `9.1.2`
+
 ## [1.1.1](https://github.com/miaoxing/mxjs-money/compare/v1.1.0...v1.1.1) (2024-03-31)
 
 
